@@ -68,12 +68,13 @@ pip install 'qiskit[visualization]'
 
 Una vez ejecutados descargamos los archivos y los corremos desde:
 
-![image](https://user-images.githubusercontent.com/25957863/204448146-a7615547-7e09-4305-b3d9-710697c079fe.png)
+![image](https://user-images.githubusercontent.com/25957863/204448510-3343d941-e57e-4a93-9377-89e60054e713.png)
 
 O desde (click derecho sobre el archivo.py, luego damos click en Run):
 
-![image](https://user-images.githubusercontent.com/25957863/204448255-6dc99a90-f4bc-417a-a6d4-c33588efe6aa.png)
+![image](https://user-images.githubusercontent.com/25957863/204448595-6170831d-eb12-4ca4-98fb-f9631a706263.png)
 
+Claro está que se debe hacer la ejecución una a uno.
 
 ## Realizado en:
 
