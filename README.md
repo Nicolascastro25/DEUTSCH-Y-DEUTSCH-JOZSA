@@ -52,12 +52,17 @@ En el archivo "MatricesDeutsch-jozsa.py" encontrará lo siguiente:
 
 - Matriz correpondiente al algoritmo de Deutsch Jozsa
 
-### Ejecución de código: 
+### Instalación y ejecución de manera local: 
 
-'''
+```
 pip install qiskit
-'''
-
+```
+```
+pip install qiskit[visualization]
+```
+```
+pip install 'qiskit[visualization]'
+```
 ## Realizado en:
 
 These libraries were built with [Python 3.8](https://python.org/) using as IDE Pycharm.
