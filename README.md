@@ -30,15 +30,28 @@
 
 En el archivo "AlgDeutsch.py" encontrará lo siguiente:
 
+- Representación del circuito del algoritmo de Deustch, así como la definición de si son son balanceadas o constantes.
+
 En el archivo "AlgDeutsch-jozsa.py" encontrará lo siguiente:
+
+- Representación del circuito del algoritmo de Deustch-Jozsa, así como la definición de si son son balanceadas o constantes.
 
 En el archivo "FuncionesDeutsch.py" encontrará lo siguiente:
 
+- Implementacion de las 4 funciones posibles de {0,1} a {0,1} usando el computador cuántico de IBM para el algoritmo de Deutsch.
+
 En el archivo "FuncionesDeutsch-jozsa.py" encontrará lo siguiente:
 
-En el archivo "AlgDeutsch.py" encontrará lo siguiente:
+- Implementacion de 4 funciones con n= 4 (3 balanceadas y una constante) para probar el funcionamiento del algoritmo Deustch-Jozsa
 
-En el archivo "AlgDeutsch.py" encontrará lo siguiente:
+En el archivo "MatricesDeutsch.py" encontrará lo siguiente:
+
+- Matriz correpondiente al algoritmo de Deutsch
+
+En el archivo "MatricesDeutsch-jozsa.py" encontrará lo siguiente:
+
+- Matriz correpondiente al algoritmo de Deutsch Jozsa
+
 ## Realizado en:
 
 These libraries were built with [Python 3.8](https://python.org/) using as IDE Pycharm.
