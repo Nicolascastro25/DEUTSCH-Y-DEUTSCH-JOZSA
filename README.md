@@ -1,5 +1,5 @@
 # Implementacion algoritmo Deutsch y Deutsch Jozsa
-### Enunciado del problema:
+## Enunciado del problema:
 
 1. Implemente las 4 funciones posibles de {0,1} a {0,1} usando el computador cuántico de IBM.
 
@@ -26,7 +26,7 @@
 - En cada sección explique sus resultados con textos y ecuaciones.
 - Entregue un informe explicando su implementación.
 
-### Descripción de archivos:
+## Descripción de archivos:
 
 En el archivo "AlgDeutsch.py" encontrará lo siguiente:
 
@@ -51,6 +51,12 @@ En el archivo "MatricesDeutsch.py" encontrará lo siguiente:
 En el archivo "MatricesDeutsch-jozsa.py" encontrará lo siguiente:
 
 - Matriz correpondiente al algoritmo de Deutsch Jozsa
+
+### Ejecución de código: 
+
+'''
+pip install qiskit
+'''
 
 ## Realizado en:
 
